@@ -8,6 +8,10 @@
 # This prints the inverse of my_matrix and stores it in the cache.
 # The inverse matrix is available then via the getinverse-function ("my_matrix$getinverse()").
 # When cacheSolve is called again on that matrix the inverse is taken from the cache.
+#
+# ------
+# Please note that I took the example functions from the assignment description and 
+# modified them as needed.
 # ------
 
 
